@@ -2,3 +2,4 @@
 env.py
 blog/fixtures/
 blog/templates/blog/post_list.html
+products.json
